@@ -53,6 +53,8 @@
 </head>
 <body>
     <h3> Must Format .jpeg </h3>
+Name of file must numeric begin 0 <br>
+Example 0.jpeg , 1.jpeg .....
     <form method="post">
     <label for="favcolor">Pilih Warna</label>
         <input type="color" id="color" name="color" value="#ff0000" required>
