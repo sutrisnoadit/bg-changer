@@ -1,5 +1,6 @@
 # bg-changer
-
+Name of file must numeric begin 0 <br>
+Example 0.jpeg , 1.jpeg ...... 
 if show error 403 payment you must create account in  https://www.remove.bg/ and change api key <br>
 
 ![image](https://user-images.githubusercontent.com/75780640/154251709-d27f485e-d8ed-48bf-97b5-f10b0a9d0174.png)
